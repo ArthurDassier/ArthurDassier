@@ -27,7 +27,7 @@
 
 
 <p align='center'>
-  📫 How to reach me: <a href='https://github.com/ArthurDassier/ArthurDassier'>dassierarthur@gmail.com</a>
+  📫 How to reach me: <a href='https://github.com/ArthurDassier/ArthurDassier'>dassier.arthur@gmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/arthurdassier/arthurdassier"></a> Hello, World!
