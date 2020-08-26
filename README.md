@@ -21,8 +21,8 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=arthurdassier&show_icons=true&count_private=true" width="510"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdassier&count_private=true&show_icons=true&layout=compact" width="415"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=arthurdassier&show_icons=true&count_private=true" width="500"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdassier&count_private=true&show_icons=true&layout=compact" width="405"></a>
 </p>
 
 
