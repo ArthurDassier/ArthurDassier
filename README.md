@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Cloud Engineer at Fiducial and Master's student in Computer Science & Information Technology at Epitech, Paris
+  Master's student in Computer Science & Information Technology at Epitech, Paris
 </p>
 
 
