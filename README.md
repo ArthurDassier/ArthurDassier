@@ -4,12 +4,15 @@
 
 <p align='center'>
   🎓 Master's student in Computer Science & Information Technology at Epitech, Paris
-  
-  From France 🇫🇷
-  
-  Living in San Diego 🇺🇸
 </p>
 
+<p align='center'>
+From France 🇫🇷
+</p>
+
+<p align='center'>
+Living in San Diego 🇺🇸
+</p>
 
 
 <p align='center'>
