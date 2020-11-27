@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Arthur 🌩️
+  Hi there 👋 I'm Arthur 🌩️ 
 </h1>
 
 <p align='center'>
-  Master's student in Computer Science & Information Technology at Epitech, Paris
+  Master's student 🎓 in Computer Science & Information Technology at Epitech, Paris 🇫🇷
 </p>
 
 
