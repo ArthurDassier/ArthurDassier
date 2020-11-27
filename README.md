@@ -4,7 +4,9 @@
 
 <p align='center'>
   🎓 Master's student in Computer Science & Information Technology at Epitech, Paris
+  
   From France 🇫🇷
+  
   Living in San Diego 🇺🇸
 </p>
 
