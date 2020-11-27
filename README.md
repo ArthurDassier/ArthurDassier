@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  🎓 Master's student in Computer Science & Information Technology at Epitech, Paris
+  🎓 Master's student in Computer Science & Information Technology at Epitech, Paris  🇫🇷
 </p>
 
 <p align='center'>
@@ -28,9 +28,6 @@
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/arthurdassier/arthurdassier"></a> Hello, World!
-</p>
-<p align='center'>
-🇫🇷
 </p>
 
 <!--
