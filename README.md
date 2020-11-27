@@ -27,13 +27,15 @@
 <p align='center'>
   📫 How to reach me: <a href='https://www.linkedin.com/in/arthurdassier/'>dassier.arthur@gmail.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/arthurdassier/arthurdassier"></a> Hello, World!
-</p>
 
 <p align='center'>
 🇫🇷
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/arthurdassier/arthurdassier"></a> Hello, World!
+</p>
+
 
 <!--
 **ArthurDassier/ArthurDassier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
