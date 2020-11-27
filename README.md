@@ -10,10 +10,6 @@
 From France 🇫🇷
 </p>
 
-<p align='center'>
-Living in San Diego 🇺🇸
-</p>
-
 
 <p align='center'>
   
