@@ -7,11 +7,6 @@
 </p>
 
 <p align='center'>
-From France 🇫🇷
-</p>
-
-
-<p align='center'>
   
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
@@ -35,6 +30,11 @@ From France 🇫🇷
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/arthurdassier/arthurdassier"></a> Hello, World!
 </p>
+
+<p align='center'>
+🇫🇷
+</p>
+
 <!--
 **ArthurDassier/ArthurDassier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
