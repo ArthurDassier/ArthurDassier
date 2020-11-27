@@ -23,13 +23,12 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdassier&count_private=true&show_icons=true&layout=compact"></a>
 </p>
 
-
 <p align='center'>
-  📫 How to reach me: <a href='https://www.linkedin.com/in/arthurdassier/'>dassier.arthur@gmail.com</a>
+🇫🇷
 </p>
 
 <p align='center'>
-🇫🇷
+  📫 How to reach me: <a href='https://www.linkedin.com/in/arthurdassier/'>dassier.arthur@gmail.com</a>
 </p>
 
 <p align='center'>
