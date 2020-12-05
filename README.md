@@ -5,6 +5,9 @@
 <p align='center'>
   🎓 Master's student in Computer Science & Information Technology at Epitech
 </p>
+<p align='center'>
+  🏄 Abroad student at University of California, San Diego
+</p>
 
 <p align='center'>
   
