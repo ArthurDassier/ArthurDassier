@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  🎓 Master's student in Computer Science & Information Technology at Epitech
+  🎓 Master's student in Computer Science & Information Technology at Epitech, Paris
 </p>
 <p align='center'>
   🏄 Abroad student at University of California, San Diego
