@@ -6,7 +6,10 @@
   🎓 Master's student in Computer Science & Information Technology at Epitech, Paris
 </p>
 <p align='center'>
-  🏄 Abroad student at University of California, San Diego
+  🏄 University of California, San Diego Alumni
+</p>
+<p align='center'>
+ 🐻 Exchange student at ESCP Business School, Berlin
 </p>
 
 <p align='center'>
