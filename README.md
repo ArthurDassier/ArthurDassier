@@ -3,13 +3,13 @@
 </h1>
 
 <p align='center'>
-  🎓 Master's student in Computer Science & Information Technology at Epitech, Paris
+  🎓 Master's student in Computer Science & Information Technology at Epitech, Paris, France
 </p>
 <p align='center'>
   🏄 University of California, San Diego Alumni
 </p>
 <p align='center'>
- 🐻 Option E student at ESCP Business School, Berlin
+ 🐻 Option E student at ESCP Business School, Berlin, Germany
 </p>
 
 <p align='center'>
