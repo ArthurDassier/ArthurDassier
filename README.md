@@ -9,7 +9,7 @@
   🏄 University of California, San Diego Alumni
 </p>
 <p align='center'>
- 🐻 Option-E exchange student at ESCP Business School in Berlin, Germany
+ 🐻 ESCP Option-E in Berlin, Germany Alumni
 </p>
 
 <p align='center'>
