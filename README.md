@@ -9,7 +9,7 @@
   🏄 University of California, San Diego Alumni
 </p>
 <p align='center'>
- 🐻 ESCP Option-E in Berlin, Germany
+ 🐻 ESCP Option-E 2021 in Berlin, Germany
 </p>
 
 <p align='center'>
