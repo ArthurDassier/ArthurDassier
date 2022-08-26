@@ -30,6 +30,10 @@
 </p>
 
 <p align='center'>
+<a href="https://stackoverflow.com/users/11029790/thur"><img src="https://stackoverflow.com/users/flair/11029790.png?theme=dark" width="208" height="58" alt="profile for Thur at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thur at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
+
+<p align='center'>
   📫 How to reach me: <a href='https://www.linkedin.com/in/arthurdassier/'>dassier.arthur@gmail.com</a>
 </p>
 <p align='center'>
