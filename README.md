@@ -33,9 +33,9 @@
 <p align='center'>
   📫 How to reach me: <a href='https://www.linkedin.com/in/arthurdassier/'>dassier.arthur@gmail.com</a>
 </p>
-<div style="text-align: center;">
-  ![](https://komarev.com/ghpvc/?username=arthurdassier)
-</div>
+
+![](https://komarev.com/ghpvc/?username=arthurdassier) Bonjour, World! 🇫🇷
+
 
 
 
