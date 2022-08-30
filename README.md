@@ -37,8 +37,6 @@
 ![](https://komarev.com/ghpvc/?username=arthurdassier) Bonjour, World! 🇫🇷
 
 
-
-
 <p align='center'>
   <a href="https://stackoverflow.com/users/11029790/thur"><img src="https://stackoverflow.com/users/flair/11029790.png?theme=dark" width="208" height="58" alt="profile for Thur at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thur at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
