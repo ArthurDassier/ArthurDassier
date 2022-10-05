@@ -3,6 +3,9 @@
 </h1>
 
 <p align='center'>
+  🤠 Systems Engineer at OVHcloud in Dallas, Texas
+</p>
+<p align='center'>
   🎓 Master's student in Computer Science & Information Technology at {EPITECH.} in Paris, France
 </p>
 <p align='center'>
@@ -23,12 +26,14 @@
   
 </p>
 
-
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=arthurdassier&show_icons=true&count_private=true" width="430"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdassier&count_private=true&show_icons=true&layout=compact&langs_count=6&hide=blade,Makefile,CMake,Shell"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=arthurdassier&show_icons=true&count_private=true&theme=dark" width="430"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdassier&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=blade,Makefile,CMake,Shell"></a>
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=arthurdassier&theme=chalk"</a>
+</p>
 
 <p align='center'>
   📫 How to reach me: <a href='https://www.linkedin.com/in/arthurdassier/'>dassier.arthur@gmail.com</a>
