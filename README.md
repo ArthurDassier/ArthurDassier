@@ -6,7 +6,7 @@
   🤠 Systems Engineer at OVHcloud in Dallas, Texas
 </p>
 <p align='center'>
-  🎓 Master of Computer Science & Information Technology #MadeIn {EPITECH.} in Paris, France
+  🎓 Master of Computer Science & Information Technology at {EPITECH.} in Paris, France
 </p>
 <p align='center'>
   🏄 University of California, San Diego Alumni
