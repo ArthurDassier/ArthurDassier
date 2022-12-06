@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  🤠 Systems Engineer at OVHcloud in Dallas, Texas
+  🤠 Associate Systems Engineer at OVHcloud in Dallas, Texas
 </p>
 <p align='center'>
   🎓 Master of Computer Science & Information Technology at {EPITECH.} in Paris, France
