@@ -3,9 +3,6 @@
 </h1>
 
 <p align='center'>
-🇺🇸
-</p>
-<p align='center'>
   🤠 Cloud Engineer in Dallas, Texas ✭
 </p>
 <p align='center'>
