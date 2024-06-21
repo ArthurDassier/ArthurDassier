@@ -42,7 +42,7 @@
 
 
 <p align='center'>
-  📫 How to reach me: <a href='https://www.linkedin.com/in/arthurdassier/'>dassier.arthur@gmail.com</a>
+  📫 How to reach me: <a href='dassier.arthur@gmail.com'>dassier.arthur@gmail.com</a>
 </p>
 
 <p align='center'>
