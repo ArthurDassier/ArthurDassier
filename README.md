@@ -27,13 +27,15 @@
 </p>
 
 <p align='center'>
+  <a href="https://stackoverflow.com/users/11029790/thur"><img src="https://stackoverflow.com/users/flair/11029790.png?theme=dark" width="208" height="58" alt="profile for Thur at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thur at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
+
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=arthurdassier&show_icons=true&count_private=true&theme=dark" width="430"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdassier&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=blade,Makefile,CMake,Shell"></a>
 </p>
 
-<p align='center'>
-  <a href="https://stackoverflow.com/users/11029790/thur"><img src="https://stackoverflow.com/users/flair/11029790.png?theme=dark" width="208" height="58" alt="profile for Thur at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thur at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</p>
+
 
 
 <p align='center'>
