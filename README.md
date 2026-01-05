@@ -3,7 +3,11 @@
 </h1>
 
 <p align='center'>
-  🤠 Cloud Engineer in Dallas, Texas ✭
+  🐓 Government Cloud Expert, driving the cloud strategy of the French Republic
+</p>
+
+<p align='center'>
+  🤠 Former cloud engineer in Dallas, Texas ✭
 </p>
 <p align='center'>
   🎓 Master of Computer Science & Information Technology at {EPITECH.} in Paris, France
