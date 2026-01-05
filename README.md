@@ -16,7 +16,7 @@
 <h3 align="center">🎓 Education</h3>
 
 <p align="center">
-  🎓 Master of Computer Science & Information Technology — <strong>{EPITECH.}</strong>, Paris, France<br/>
+  💻 Master of Computer Science & Information Technology — <strong>{EPITECH.}</strong>, Paris, France<br/>
   🏄 University of California, San Diego — Alumni<br/>
   🐻 ESCP Option-E (2021), Berlin, Germany
 </p>
