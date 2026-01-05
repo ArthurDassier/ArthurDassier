@@ -45,9 +45,9 @@
   📫 <a href="mailto:dassier.arthur@gmail.com">dassier.arthur@gmail.com</a>
 </p>
 
-<hr/>
+<!-- <hr/> -->
 
-<h3 align="center">📊 GitHub activity</h3>
+<!-- <h3 align="center">📊 GitHub activity</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurdassier&show_icons=true&count_private=true&theme=dark"
@@ -62,11 +62,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=arthurdassier&theme=chalk"/>
 </p>
 
-<hr/>
+<hr/> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arthurdassier"/>
-  &nbsp; Bonjour, World! 🇫🇷
+  &nbsp; Bonjour, World!
 </p>
 
 
