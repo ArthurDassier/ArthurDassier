@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  🐓 Government Cloud Expert, driving the cloud strategy of the French Republic
+  🐓 Government cloud expert, driving the cloud strategy of the French Republic
 </p>
 
 <p align='center'>
